@@ -1,2 +1,2 @@
 # POCO TESTING REPO
-Just testing Github commands
+A repo for testing Github commands
